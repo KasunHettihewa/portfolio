@@ -1,4 +1,4 @@
-##### Seeking opportunities to become 
+##### Seeking opportunities to become a
 
 ## Data Scientist / Machine Learning Engineer
 
