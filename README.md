@@ -25,12 +25,12 @@ _September 2017 - August 2021_
 ![Thesis Project](/assets/img/thesis_project_img.png)
 
 
-###### Technical Skills: Deep Learning, Machine Learning
+##### Technical Skills: Deep Learning, Machine Learning
 
 ### Development of a Vision-Based Ball Catching Robot (Capstone Project)
 
 
-###### Technical Skills: Computer Vision, Automatic Control
+##### Technical Skills: Computer Vision, Automatic Control
 
 ## Publications
 1. Hettihewa, K., Kobchaisawat, T., Tanpowpong, N., & Chalidabhongse, T. H. (2023). MANet: A multi-attention network for automatic liver tumor segmentation in computed tomography (CT) imaging. Scientific Reports, 13(1), 1-21. https://doi.org/10.1038/s41598-023-46580-4
