@@ -9,3 +9,6 @@
 - BSc(Eng) in Mechatronics Engineering | Asian Institute of Technology(AIT) (_May 2017_)
 
 ## Work Experience
+**Research Assistant @ PIC Lab, Chulalongkorn University (_January 2022 - Present_)**
+- Deep learning
+- Machine Learning
