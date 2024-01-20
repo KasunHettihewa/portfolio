@@ -10,6 +10,6 @@
 
 ## Work Experience
 **Research Assistant @ PIC Lab, Chulalongkorn University** <br> 
-__January 2022 - Present__
+___January 2022 - Present___
 - Deep learning
 - Machine Learning
