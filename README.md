@@ -28,7 +28,7 @@ _September 2017 - August 2021_
 ##### Technical Skills: Deep Learning, Machine Learning
 
 ### Development of a Vision-Based Ball Catching Robot (Capstone Project)
-
+![Capstone Project](/assets/img/capstone_project_img.png)
 
 ##### Technical Skills: Computer Vision, Automatic Control
 
