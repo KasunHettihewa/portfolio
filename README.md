@@ -22,7 +22,7 @@ _September 2017 - August 2021_
 
 ## Projects
 ### Automatic liver tumor segmentation in computed tomography (CT) imaging (Master's Thesis)
-![Thesis Project](/assets/img/thesis_project.png)
+![Thesis Project](/assets/img/thesis_project_img.png)
 
 
 ###### Technical Skills: Deep Learning, Machine Learning
