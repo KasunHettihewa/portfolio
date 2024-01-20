@@ -21,4 +21,13 @@ _September 2017 - August 2021_
 - Implement industrial machine vision systems and measuring equipment in developed automation systems (Experience in Keyence and Cognex machine vision systems).
 
 ## Projects
-### Automatic liver tumor segmentation in computed tomography (CT) imaging 
+### Automatic liver tumor segmentation in computed tomography (CT) imaging (Master's Thesis)
+
+
+
+###### Technical Skills: Deep Learning, Machine Learning
+
+### Development of a Vision-Based Ball Catching Robot (Capstone Project)
+
+
+###### Technical Skills: Computer Vision, Automatic Control
