@@ -1,6 +1,6 @@
-# portfolio
+# Seeking opportunities to become 
 
-# Data Scientist
+# Data Scientist/Machine Learning Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
