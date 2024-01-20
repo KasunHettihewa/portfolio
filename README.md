@@ -1,6 +1,6 @@
 # Seeking opportunities to become 
 
-# Data Scientist/Machine Learning Engineer
+## Data Scientist / Machine Learning Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
