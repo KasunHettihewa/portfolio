@@ -6,4 +6,4 @@
 
 ## Education								       		
 - M.Eng. in Computer Engineering | Chulalongkorn University (_December 2023_)	 			        		
-- BSc(Eng) in Mechatronics Engineering | Asian Institute of Technology (AIT) (_May 2017_)
+- BSc(Eng) in Mechatronics Engineering | Asian Institute of Technology(AIT) (_May 2017_)
