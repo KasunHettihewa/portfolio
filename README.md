@@ -6,7 +6,7 @@
 
 ## Education								       		
 - M.Eng. in Computer Engineering | Chulalongkorn University (_December 2023_)	 			        		
-- BSc(Eng) in Mechatronics Engineering | Asian Institute of Technology(AIT) (_May 2017_)
+- BSc(Eng). in Mechatronics Engineering | Asian Institute of Technology(AIT) (_May 2017_)
 
 ## Work Experience
 **Research Assistant @ PIC Lab, Chulalongkorn University** <br> 
@@ -31,3 +31,7 @@ _September 2017 - August 2021_
 
 
 ###### Technical Skills: Computer Vision, Automatic Control
+
+## Publications
+1. Hettihewa, K., Kobchaisawat, T., Tanpowpong, N., & Chalidabhongse, T. H. (2023). MANet: A multi-attention network for automatic liver tumor segmentation in computed tomography (CT) imaging. Scientific Reports, 13(1), 1-21. https://doi.org/10.1038/s41598-023-46580-4
+2. K. G. Hettihewa and M. Parnichkun, "Development of a Vision Based Ball Catching Robot," 2021 Second International Symposium on Instrumentation, Control, Artificial Intelligence, and Robotics (ICA-SYMP), Bangkok, Thailand, 2021, pp. 1-5, doi: 10.1109/ICA-SYMP50206.2021.9358432.
