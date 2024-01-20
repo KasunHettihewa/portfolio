@@ -2,7 +2,7 @@
 
 ## Data Scientist / Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, PyTorch, scikit-learn, SQL
 
 ## Education								       		
 - M.Eng. in Computer Engineering | Chulalongkorn University (_December 2023_)	 			        		
