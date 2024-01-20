@@ -5,7 +5,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education								       		
-_ M.Eng. in Computer Engineering | Chulalongkorn University (_December 2023_)	 			        		
-_ BSc(Eng) in Mechatronics Engineering | Asian Institute of Technology(AIT) (_May 2017_)
+- M.Eng. in Computer Engineering | Chulalongkorn University (_December 2023_)	 			        		
+- BSc(Eng) in Mechatronics Engineering | Asian Institute of Technology(AIT) (_May 2017_)
 
 ## Work Experience
