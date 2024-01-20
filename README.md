@@ -3,6 +3,8 @@
 ## Data Scientist / Machine Learning Engineer
 
 #### Technical Skills: Python, PyTorch, scikit-learn, SQL
+![Endpoint Badge](https://img.shields.io/endpoint)
+
 
 ## Education								       		
 - M.Eng. in Computer Engineering | Chulalongkorn University (_December 2023_)	 			        		
