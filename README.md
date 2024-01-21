@@ -24,7 +24,8 @@ _September 2017 - August 2021_
 ## Projects
 ### Automatic liver tumor segmentation in computed tomography (CT) imaging (Master's Thesis) 
 [Publication](https://www.nature.com/articles/s41598-023-46580-4)
-![Static Badge](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?style=plastic&logo=github)
+![Static Badge](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?style=plastic&logo=github&link=https%3A%2F%2Fwww.iloveimg.com%2F)
+
 Automatic liver tumor segmentation is a paramount important application for liver tumor diagnosis and treatment planning. However, it has become a highly challenging task due to the heterogeneity of the tumor shape and intensity variation.  In this project, we propose a novel network named Multi Attention Network (MANet) as a fusion of attention mechanisms to learn highlighting important features while suppressing irrelevant features for the tumor segmentation task. The proposed deep learning network has followed U-Net as the basic architecture. Moreover, the residual mechanism is implemented in the encoder. The developed deep learning architecture is trained and evaluated on the publicly available MICCAI 2017 Liver Tumor Segmentation dataset and 3DIRCADb dataset under various evaluation metrics. The novel network demonstrated promising results compared to state-of-the-art methods with comparatively small parameter overhead.
 
 ##### Technical Skills: Deep Learning, Machine Learning
