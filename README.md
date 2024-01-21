@@ -34,7 +34,8 @@ Automatic liver tumor segmentation is a paramount important application for live
 
 ![Thesis Project](/assets/img/thesis_project_img.png)
 
-
+<br> 
+<br> 
 
 ### Development of a Vision-Based Ball Catching Robot (Capstone Project)
 
