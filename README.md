@@ -23,6 +23,7 @@ _September 2017 - August 2021_
 
 ## Projects
 ### Automatic liver tumor segmentation in computed tomography (CT) imaging (Master's Thesis) 
+
 [Publication](https://www.nature.com/articles/s41598-023-46580-4) <br> 
 <br> 
 [![Static Badge](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?style=plastic&logo=github)](https://github.com/KasunHettihewa/portfolio/tree/main)
@@ -34,9 +35,14 @@ Automatic liver tumor segmentation is a paramount important application for live
 ![Thesis Project](/assets/img/thesis_project_img.png)
 
 
-
-
 ### Development of a Vision-Based Ball Catching Robot (Capstone Project)
+
+[Publication](https://ieeexplore.ieee.org/document/9358432) <br> 
+<br> 
+[![Static Badge](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?style=plastic&logo=github)](https://github.com/KasunHettihewa/portfolio/tree/main)
+
+This project investigates an automated solution for the ball-catching task using a static camera and an automatically controlled mechanical system. The robot system can catch a ball that comes towards the ball-catching plane. The robot accomplishes the ball-catching task with different success rates according to the trajectory type and speed of the ball. The thrown ball is visually tracked through a ball detection image processing algorithm. The 2D synchronized motion of the ball catcher is coordinated by the PID algorithm. Experimental results are conducted to evaluate the performance of the robot.
+
 ![Capstone Project](/assets/img/capstone_project_img.png)
 
 ##### Technical Skills: Computer Vision, Automatic Control
