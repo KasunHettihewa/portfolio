@@ -35,6 +35,7 @@ Automatic liver tumor segmentation is a paramount important application for live
 ![Thesis Project](/assets/img/thesis_project_img.png)
 
 
+
 ### Development of a Vision-Based Ball Catching Robot (Capstone Project)
 
 [Publication](https://ieeexplore.ieee.org/document/9358432) <br> 
@@ -43,9 +44,11 @@ Automatic liver tumor segmentation is a paramount important application for live
 
 This project investigates an automated solution for the ball-catching task using a static camera and an automatically controlled mechanical system. The robot system can catch a ball that comes towards the ball-catching plane. The robot accomplishes the ball-catching task with different success rates according to the trajectory type and speed of the ball. The thrown ball is visually tracked through a ball detection image processing algorithm. The 2D synchronized motion of the ball catcher is coordinated by the PID algorithm. Experimental results are conducted to evaluate the performance of the robot.
 
+##### Technical Skills: Computer Vision, Automatic Control
+
 ![Capstone Project](/assets/img/capstone_project_img.png)
 
-##### Technical Skills: Computer Vision, Automatic Control
+
 
 ## Publications
 1. Hettihewa, K., Kobchaisawat, T., Tanpowpong, N., & Chalidabhongse, T. H. (2023). MANet: A multi-attention network for automatic liver tumor segmentation in computed tomography (CT) imaging. Scientific Reports, 13(1), 1-21. https://doi.org/10.1038/s41598-023-46580-4
