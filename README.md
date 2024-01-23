@@ -2,8 +2,9 @@
 
 ## Data Scientist / Machine Learning Engineer
 
-#### Technical Skills: Python, PyTorch, scikit-learn, SQL
+#### Technical Skills: Python, PyTorch, Scikit-learn, SQL
 
+[Resume](https://www.nature.com/articles/s41598-023-46580-4) [Resume 2](https://www.nature.com/articles/s41598-023-46580-4)
 
 ## Education								       		
 - M.Eng. in Computer Engineering | Chulalongkorn University (_December 2023_)	 			        		
