@@ -4,7 +4,7 @@
 
 #### Technical Skills: Python, PyTorch, Scikit-learn, SQL
 
-[![Static Badge](https://img.shields.io/badge/Resume-white?style=flat)](https://www.nature.com/articles/s41598-023-46580-4) l [![Static Badge](https://img.shields.io/badge/ResearchGate-white?style=flat&logo=ResearchGate)](https://www.researchgate.net/profile/Kasun-Hettihewa) l [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kasun-gayashan-hettihewa-b82146a0/) l [![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/KasunHettihewa)
+[![Static Badge](https://img.shields.io/badge/Resume-white?style=flat)](https://www.nature.com/articles/s41598-023-46580-4)   [![Static Badge](https://img.shields.io/badge/ResearchGate-white?style=flat&logo=ResearchGate)](https://www.researchgate.net/profile/Kasun-Hettihewa)   [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kasun-gayashan-hettihewa-b82146a0/)   [![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/KasunHettihewa)
 
 
 ## Education								       		
