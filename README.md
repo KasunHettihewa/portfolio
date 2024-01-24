@@ -42,7 +42,6 @@ Automatic liver tumor segmentation is a paramount important application for live
 ### Development of a Vision-Based Ball Catching Robot (Capstone Project)
 
 [Publication](https://ieeexplore.ieee.org/document/9358432) <br> 
-<br> 
 
 This project investigates an automated solution for the ball-catching task using a static camera and an automatically controlled mechanical system. The robot system can catch a ball that comes towards the ball-catching plane. The robot accomplishes the ball-catching task with different success rates according to the trajectory type and speed of the ball. The thrown ball is visually tracked through a ball detection image processing algorithm. The 2D synchronized motion of the ball catcher is coordinated by the PID algorithm. Experimental results are conducted to evaluate the performance of the robot.
 
